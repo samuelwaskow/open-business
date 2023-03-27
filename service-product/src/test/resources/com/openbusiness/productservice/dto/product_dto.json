@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "name":"Pet Cupkake",
+  "description":"Pupcakes are a fun way to celebrate your pup!",
+  "price": 46.00,
+  "categoryID": 12,
+  "categoryName": "Recipes"
+}
